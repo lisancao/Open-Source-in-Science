@@ -1,6 +1,14 @@
-Open Source in Science: 
+#1
+Open source in Science: How contributability, transparency, and other open source practices can revolutionize scientific research by Lisa N. Cao
+
+#2 
 About me: 
--IT person for a Linux Computer lab at a non-profit 
+-Undergrad who codes in a field that has no coding training whatsoever
+-A way for students to contribute to the field without needing funding while building their coding skills 
+
+
+-fastr project
+
 
 -traditional Open source (decentralization through forking), which would be great in science
 	-what is open source? (+ licensing, like creative commons)
@@ -51,6 +59,8 @@ About me:
 	
 -Successes of open source science: (examples)
 
+-decentralization
+-stratification
 
 
 -example: reproducing bioinformatics analyses without the source code or data? 
